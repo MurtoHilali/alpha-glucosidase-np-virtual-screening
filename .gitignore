@@ -28,6 +28,7 @@ __pycache__/
 03_results/
 04_controls/041_decoys/
 04_controls/042_redock/
+00_data/high_similarity_candidates.csv
 
 # =========================
 # Archives

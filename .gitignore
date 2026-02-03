@@ -1,0 +1,43 @@
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pkl
+*.pickle
+*.log
+
+# =========================
+# Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Large data (DO NOT TRACK)
+# =========================
+02_ligands/
+03_results/
+04_controls/041_decoys/
+04_controls/042_redock/
+
+# =========================
+# Archives
+# =========================
+*.tar
+*.tar.gz
+*.zip
+
+# =========================
+# Allowlist (tracked files)
+# =========================
+!02_ligands/README.md
+!03_results/README.md

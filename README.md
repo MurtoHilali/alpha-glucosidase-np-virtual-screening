@@ -5,7 +5,7 @@ This repository contains the **code, analysis notebooks, and workflows** used fo
 The project performs large-scale virtual screening and docking against multiple alpha-glucosidase targets using **GNINA**, followed by statistical analysis, decoy validation, and redocking controls. Due to size constraints, all heavy docking outputs and large datasets are hosted externally on Zenodo.
 
 ---
-![](/alpha-glucosidase-np-virtual-screening/aadd-workflow.drawio.png)
+![](aadd-workflow.drawio.png)
 
 ## Project Overview
 
